@@ -1,9 +1,23 @@
-.app {
+.App {
     height:70 100vh;
+    background-color: magenta;
 
-    .sections{
-        width: 100%;
-        height: calc(100vh - 70px); // Leave room for TopBar
-        background-color: lightseagreen;
+}
+
+
+.sections{
+    width: 100%;
+    height: calc(100vh - 70px); /*Leave room for TopBar*/
+    background-color: lightseagreen;
+    width: 100vw;
+    height: calc(100vh - 70px);
+    position: relative;
+    top: 70px; /* Push down sections 70px, below TopBar */
+    scroll-snap-type: y mandatory;
+
+    > * {
+        width: 100vw;
+        height: calc(100vh - 70px);
+        scroll-snap-align: start;
     }
 }
