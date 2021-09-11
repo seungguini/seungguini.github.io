@@ -12,12 +12,18 @@
     width: 100vw;
     height: calc(100vh - 70px);
     position: relative;
+    overflow: scroll;
     top: 70px; /* Push down sections 70px, below TopBar */
+    scrollbar-width: none; // Removes scrollbar for firefox
     scroll-snap-type: y mandatory;
+    &::-webkit-scrollbar { // Removes scrollbar for other browsers
+        display: none;
+    }
 
     > * {
+        scroll-snap-align: start;
         width: 100vw;
         height: calc(100vh - 70px);
-        scroll-snap-align: start;
+
     }
 }
