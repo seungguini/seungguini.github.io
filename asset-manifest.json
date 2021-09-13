@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hi/static/css/main.d5cf3148.chunk.css",
-    "main.js": "/hi/static/js/main.9346dca5.chunk.js",
-    "main.js.map": "/hi/static/js/main.9346dca5.chunk.js.map",
-    "runtime-main.js": "/hi/static/js/runtime-main.de7db415.js",
-    "runtime-main.js.map": "/hi/static/js/runtime-main.de7db415.js.map",
-    "static/css/2.f2512455.chunk.css": "/hi/static/css/2.f2512455.chunk.css",
-    "static/js/2.f57857fd.chunk.js": "/hi/static/js/2.f57857fd.chunk.js",
-    "static/js/2.f57857fd.chunk.js.map": "/hi/static/js/2.f57857fd.chunk.js.map",
-    "index.html": "/hi/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/hi/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.d5cf3148.chunk.css.map": "/hi/static/css/main.d5cf3148.chunk.css.map",
-    "static/js/2.f57857fd.chunk.js.LICENSE.txt": "/hi/static/js/2.f57857fd.chunk.js.LICENSE.txt",
-    "static/media/home.scss": "/hi/static/media/landingpage_pic.fa112ded.jpg"
+    "main.css": "/seungguini.github.io/static/css/main.19fbfbc6.chunk.css",
+    "main.js": "/seungguini.github.io/static/js/main.9346dca5.chunk.js",
+    "main.js.map": "/seungguini.github.io/static/js/main.9346dca5.chunk.js.map",
+    "runtime-main.js": "/seungguini.github.io/static/js/runtime-main.59dfb3a9.js",
+    "runtime-main.js.map": "/seungguini.github.io/static/js/runtime-main.59dfb3a9.js.map",
+    "static/css/2.f2512455.chunk.css": "/seungguini.github.io/static/css/2.f2512455.chunk.css",
+    "static/js/2.f57857fd.chunk.js": "/seungguini.github.io/static/js/2.f57857fd.chunk.js",
+    "static/js/2.f57857fd.chunk.js.map": "/seungguini.github.io/static/js/2.f57857fd.chunk.js.map",
+    "index.html": "/seungguini.github.io/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/seungguini.github.io/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.19fbfbc6.chunk.css.map": "/seungguini.github.io/static/css/main.19fbfbc6.chunk.css.map",
+    "static/js/2.f57857fd.chunk.js.LICENSE.txt": "/seungguini.github.io/static/js/2.f57857fd.chunk.js.LICENSE.txt",
+    "static/media/home.scss": "/seungguini.github.io/static/media/landingpage_pic.fa112ded.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.de7db415.js",
+    "static/js/runtime-main.59dfb3a9.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.f57857fd.chunk.js",
-    "static/css/main.d5cf3148.chunk.css",
+    "static/css/main.19fbfbc6.chunk.css",
     "static/js/main.9346dca5.chunk.js"
   ]
 }
