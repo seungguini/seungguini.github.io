@@ -1,4 +1,5 @@
 {
+  "homepage": "http://seungguini.github.io/seungguini.github.io",
   "name": "personal-site",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +46,7 @@
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-plugin-react": "^7.25.1",
+    "gh-pages": "^3.2.3",
     "node-sass": "^6.0.1",
     "sass-loader": "^12.1.0"
   }
